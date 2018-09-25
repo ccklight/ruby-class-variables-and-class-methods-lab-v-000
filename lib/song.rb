@@ -15,5 +15,5 @@ class Song
     @@genres.unq_by] 
   end
    
- 
+ @@genres = []
   
