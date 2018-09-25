@@ -19,9 +19,6 @@ class Song
    @@artists << artist
  end
 
-
-
-  
   
   Song.count
   @@count = 0 
