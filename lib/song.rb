@@ -4,6 +4,7 @@ class Song
   
   @@count = 0
   @@genres = []
+  
   def initialize 
   @@count += 1 
    
@@ -19,5 +20,5 @@ class Song
    @@artists.unq_by
   end 
   
-  @@artists = []
+  
   
