@@ -25,4 +25,7 @@ class Song
     {:genres_names => Song.genre_count}
   end
   
+  def self.artist_count
+    
+  end
   
