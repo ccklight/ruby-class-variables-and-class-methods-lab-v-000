@@ -17,4 +17,7 @@ class Song
    
   def self.artists
    @@artists.unq_by
+  end 
+  
+  @@artists = []
   
