@@ -12,7 +12,7 @@ class Song
   end
   
   def self.genres 
-    [genres.unq] 
+    @@genres.unq_by] 
   end
    
  
