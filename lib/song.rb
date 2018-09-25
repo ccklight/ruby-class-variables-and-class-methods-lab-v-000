@@ -15,5 +15,6 @@ class Song
     @@genres.unq_by] 
   end
    
- 
+  def self.artists
+   @@artists.unq_by
   
