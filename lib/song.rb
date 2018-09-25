@@ -23,18 +23,6 @@ class Song
 
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   Song.count
   @@count = 0 
   def initialize
