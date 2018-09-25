@@ -22,7 +22,7 @@ class Song
   end 
   
   def self.genre_count
-    {genre_names :Song.genre_count}
+    {genre_names, Song.genre_count}
   end
   
   
